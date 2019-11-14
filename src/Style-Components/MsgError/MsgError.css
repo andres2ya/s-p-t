@@ -1,0 +1,9 @@
+.MsgErrorBox{
+    border-radius: 20px;
+    background-color: rgb(233, 30, 30);
+    color:white;
+    font-size:12px;
+    width: 25%;
+    text-align: center;
+    overflow-wrap: break-word;
+}

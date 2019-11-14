@@ -1,0 +1,20 @@
+.LinkText{
+    text-decoration: none;
+    font-weight: 600;
+}
+a:hover{
+    text-decoration: none;
+    font-weight: 900;
+}
+.LinkTextBlue{
+    color:#3d4c88;
+}
+.LinkTextBlack{
+    color:black;
+}
+.LinkTextWhite{
+    color:white;
+}
+.LinkTextGrey{
+    color:grey;
+}

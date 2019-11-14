@@ -1,0 +1,30 @@
+.ModButton{
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    border: none;
+}
+.iconBox{
+    font-size:25px;
+    color:white;
+}
+
+.ModButton:focus{
+    outline: none;
+    cursor: pointer;
+}
+.ModButton:hover{
+    cursor: pointer;
+}
+.ModButton:active{
+    transform: scale(0.95);
+}
+
+.AcceptButton{
+    background-color: #3d4c88;
+    color:white;
+}
+.CancelButton{
+    background-color: rgb(233, 30, 30);
+    color:white;
+}

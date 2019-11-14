@@ -1,0 +1,42 @@
+.BorderRadiusTextBox{
+    border-radius: 20px;
+    border:solid 2px #9e9e9e;
+    color:#626262;
+    margin-top:2px;
+    margin-bottom:2px;
+    width: 25%;
+    text-align: center;
+}
+.BorderRadiusTextBox::placeholder{
+    padding-left: 10px;
+    text-align: center;
+}
+.BorderRadiusTextBox:focus{
+    outline: none;
+}
+
+
+
+
+
+/* Input con relleno */
+.BorderRadiusTextBoxBackground{
+    border-radius: 20px;
+    border:none;
+    background-color: #9e9e9e;
+    color:white;
+    margin-top:2px;
+    margin-bottom:2px;
+    width: 25%;
+    text-align: center;
+}
+.BorderRadiusTextBoxBackground::placeholder{
+    padding-left: 10px;
+    color:white;
+    text-align: center;
+}
+.BorderRadiusTextBoxBackground:focus{
+    outline: none;
+}
+
+
